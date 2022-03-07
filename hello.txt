@@ -3,4 +3,12 @@ hello world !
 깃 데스크탑 테스트입니다 ㅋㅋㅋ
 
 
+<<<<<<< Updated upstream
 실시간인가요? 
+=======
+실시간인가요? 
+
+브랜치 테스트 1
+
+브랜치를 바꿔볼까요
+>>>>>>> Stashed changes
